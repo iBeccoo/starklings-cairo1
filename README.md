@@ -1,7 +1,7 @@
 # STARKLINGS
 fork from: https://github.com/shramee/starklings-cairo1
 
-### My journey to learning Cairo with Starklings :)
+### My journey in learning Cairo with Starklings :)
 
 ---
 
