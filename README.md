@@ -3,6 +3,8 @@ fork from: https://github.com/shramee/starklings-cairo1
 
 ### My journey in learning Cairo with Starklings :)
 
+![image](https://github.com/iBeccoo/starklings-cairo1/assets/101125593/75ba0fd4-d4fa-434b-ad03-628f77cd88f0)
+
 ---
 
 ## Setup and run
